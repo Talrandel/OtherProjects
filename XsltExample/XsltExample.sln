@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XsltExample", "XsltExample.csproj", "{4BB55E18-2F96-48D4-A761-760B69D8A31B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealDevExpress", "..\HealDevExpress\HealDevExpress.csproj", "{8B079420-6064-4608-BBC3-0DFA505DAFD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB55E18-2F96-48D4-A761-760B69D8A31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB55E18-2F96-48D4-A761-760B69D8A31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB55E18-2F96-48D4-A761-760B69D8A31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB55E18-2F96-48D4-A761-760B69D8A31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B079420-6064-4608-BBC3-0DFA505DAFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B079420-6064-4608-BBC3-0DFA505DAFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B079420-6064-4608-BBC3-0DFA505DAFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B079420-6064-4608-BBC3-0DFA505DAFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
